@@ -4,9 +4,9 @@
 vagrant(https://www.vagrantup.com/)とvirtualbox(https://www.virtualbox.org/)はあらかじめ入れといてね
 -----------------------------------------------------------------------
 たった３回コマンドを打つだけでおけ！
-$curl -O https://raw.githubusercontent.com/hibiking-0422/rails_install.sh/master/vagrant.bat
-$vagrant.bat
-$bash <(curl -s https://raw.githubusercontent.com/hibiking-0422/rails_install.sh/master/rails_install.sh)
+$curl -O https://raw.githubusercontent.com/hibiking-0422/sugiyama_app/master/sugiyama_app_install.bat
+$sugiyama_app_install.bat
+$bash <(curl -s https://raw.githubusercontent.com/hibiking-0422/sugiyama_app/master/sugiyama_app_install.sh)
 -----------------------------------------------------------------------
 commentout
 
